@@ -1,0 +1,20 @@
+{
+    "Save": "Speichern",
+    "Video": "Video",
+    "Add": "Hinzuf\u00fcgen",
+    "Game": "Spiel",
+    "MediaType": "Medientyp",
+    "ExternalPlayers": "Externe Abspieler",
+    "ExternalPlayer": "Externer Abspieler",
+    "PlayerPath": "Abspieler-Pfad",
+    "ArgumentsHelp": "Bitte platziere jedes Argument in einer eigenen Zeile.",
+    "TokenPath": "{path} = Pfad zur Mediendatei",
+    "EnableFor": "Aktiviere f\u00fcr:",
+    "VideoFiles": "Videodateien",
+    "InternetStreams": "Internet-Streams",
+    "CommandLineArguments": "Kommandozeilenargumente",
+    "TokenStartPosMs": "{ms} = Startposition in ms",
+    "AdditionalFilters": "Zus\u00e4tzliche Filter:",
+    "GameSystem": "Spielsystem",
+    "TokenStartPosSeconds": "{Seconds} = Startposition in Sekunden"
+}
